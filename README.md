@@ -15,14 +15,14 @@ TheFeed
 gegeven
 - [x] Je zorgt ervoor dat je applicatie relevant blijft per dag: oude posts moeten naar
 beneden worden geduwd / niet weergegeven worden op de volgende dag.
-- [] De layout is responsive
+- [ ] De layout is responsive
 - [x] Kies uit Bootstrap (tip: bootstrap-sass), Foundation,…
-- [] Personaliseer je front-end door tweaks toe te voegen om het geheel eigenheid
+- [ ] Personaliseer je front-end door tweaks toe te voegen om het geheel eigenheid
 te geven
 
 ### Extras
-- [] Gebruik een externe provider om mails te versturen zoals Mandrill of Mailgun
-- [] Authenticatie met een externe provider (facebook, google, …)
-- [] Indien de post in kwestie een YouTube filmpje is, is dat zichtbaar op de detailpagina
-- [] Er is een apart overzicht van posts met de meeste positieve stemmen aller tijden
+- [ ] Gebruik een externe provider om mails te versturen zoals Mandrill of Mailgun
+- [ ] Authenticatie met een externe provider (facebook, google, …)
+- [ ] Indien de post in kwestie een YouTube filmpje is, is dat zichtbaar op de detailpagina
+- [ ] Er is een apart overzicht van posts met de meeste positieve stemmen aller tijden
 - [x] Gebruikers kunnen hun wachtwoord resetten
