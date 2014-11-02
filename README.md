@@ -24,5 +24,5 @@ te geven
 - [ ] Gebruik een externe provider om mails te versturen zoals Mandrill of Mailgun
 - [ ] Authenticatie met een externe provider (facebook, google, …)
 - [ ] Indien de post in kwestie een YouTube filmpje is, is dat zichtbaar op de detailpagina
-- [ ] Er is een apart overzicht van posts met de meeste positieve stemmen aller tijden
+- [x] Er is een apart overzicht van posts met de meeste positieve stemmen aller tijden
 - [x] Gebruikers kunnen hun wachtwoord resetten
